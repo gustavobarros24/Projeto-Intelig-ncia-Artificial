@@ -1,2 +1,1 @@
-# Projeto-Intelig-ncia-Artificial
-Projeto Inteligência Artificial
+# IA-23
